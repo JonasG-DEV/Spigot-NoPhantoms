@@ -1,0 +1,5 @@
+name: NoPhantoms
+version: ${project.version}
+main: me.jonasg.nophantoms.NoPhantoms
+api-version: 1.16
+description: Prevents phantoms from spawning.
